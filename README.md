@@ -3,3 +3,5 @@
 Problem 1 - Parallel computation of multiplication prefixes 
 
 Problem 2 - 3-2 Compressor
+
+Problem 3 - Universal multipole
