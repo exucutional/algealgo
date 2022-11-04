@@ -9,3 +9,5 @@ Problem 3 - Universal multipole
 Problem 4 - Strassen algorithm
 
 Problem 5 - Perfect matching
+
+Problem 6 - LUP decomposition
