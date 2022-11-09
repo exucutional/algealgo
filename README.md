@@ -13,3 +13,5 @@ Problem 5 - Perfect matching
 Problem 6 - LUP decomposition
 
 Problem 7 - BCH code
+
+Problem 8 - Minumum weighted vertex cover
