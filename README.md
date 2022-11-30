@@ -15,3 +15,5 @@ Problem 6 - LUP decomposition
 Problem 7 - BCH code
 
 Problem 8 - Minumum weighted vertex cover
+
+Problem 10 - Minimum Density Cut
