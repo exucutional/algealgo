@@ -17,3 +17,5 @@ Problem 7 - BCH code
 Problem 8 - Minumum weighted vertex cover
 
 Problem 10 - Minimum Density Cut
+
+Problem 11 - Three completeness
