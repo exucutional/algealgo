@@ -19,3 +19,5 @@ Problem 8 - Minumum weighted vertex cover
 Problem 10 - Minimum Density Cut
 
 Problem 11 - Three completeness
+
+Problem 12 - Seidel's algorithm
